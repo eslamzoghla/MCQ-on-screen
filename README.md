@@ -8,3 +8,8 @@ This repository presents a versatile Multiple-Choice Question (MCQ) system for i
 - Customizable questions: Create and edit MCQs to suit various educational needs and difficulty levels.
 - Real-time feedback: Instantaneous feedback on user responses, promoting active learning.
 - Performance tracking: Monitor student progress and identify areas for improvement.
+
+# Video
+
+https://github.com/user-attachments/assets/d6ac83ad-9887-48a4-b9d8-dc6e3eb980dd
+
